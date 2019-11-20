@@ -2,6 +2,8 @@
 
 Have you lost or broken the controller for your christmas lights this season? Can't find a suitable power supply among our wide range of DC power supplies? Do you want to jazz up your christmas lights with your own effects and control?
 
+![flashing](images/flashing-lights.png)
+
 This project uses a few handy components on a traditional UNO prototyping board; Build the module as below then place on top of the UNO.
 
 With the open-source nature of this project you would be able to attach sensors to it if you required.
